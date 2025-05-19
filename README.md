@@ -1,8 +1,8 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME
-### ROLL NO:
-### DEPARTMENT 
-### DATE
+### NAME: M.K.Suriya prakash
+### ROLL NO:212224110053
+### DEPARTMENT : IoT
+### DATE: 19.5.2025
 
 
 
